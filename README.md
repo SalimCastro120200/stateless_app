@@ -5,9 +5,10 @@ Optmizando el codigo en diferentes archivos para su mejora en ejecución.
 
 ## Screenshots
 
-This project is a starting point for a Flutter application.
+<p align="center"><img src="https://github.com/SalimCastro120200/stateless_app/blob/master/screenshots/ScreenShot_Stateless.jpeg" width="70%"/></p>
 
-A few resources to get you started if this is your first Flutter project:
+En la siguiente captura podemos visualizar los tres Cards de la aplicación. 
+Cada Card tiene su titulo y su icono.
 
 
 ## Datos de la asignatura 
@@ -25,6 +26,6 @@ A few resources to get you started if this is your first Flutter project:
 ## Elaborado por
 
 
-* *Nombre Completo* - Salim Rafael Castro Ortiz
+* - Salim Rafael Castro Ortiz
 
 
